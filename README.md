@@ -45,11 +45,11 @@ You can use these VAST tags to verify:
 4. After the deployment completes, your files will be available at:
 
 ## Links
-https://midddim.github.io/vast-test/vast-ok-30s.xml
-https://midddim.github.io/vast-test/vast-ok-15s.xml
-https://midddim.github.io/vast-test/vast-multi-mediafiles.xml
-https://midddim.github.io/vast-test/vast-broken.xml
-https://midddim.github.io/vast-test/vast-wrapper.xml
-https://midddim.github.io/vast-test/vast-no-mediafiles.xml
-https://midddim.github.io/vast-test/vast-no-duration.xml
-https://midddim.github.io/vast-test/vast-http-mediafile.xml
+- https://midddim.github.io/vast-test/vast-ok-30s.xml
+- https://midddim.github.io/vast-test/vast-ok-15s.xml
+- https://midddim.github.io/vast-test/vast-multi-mediafiles.xml
+- https://midddim.github.io/vast-test/vast-broken.xml
+- https://midddim.github.io/vast-test/vast-wrapper.xml
+- https://midddim.github.io/vast-test/vast-no-mediafiles.xml
+- https://midddim.github.io/vast-test/vast-no-duration.xml
+- https://midddim.github.io/vast-test/vast-http-mediafile.xml
