@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+  <Ad id="broken">
+    <InLine>
+      <AdSystem>QA VAST</AdSystem>
+      <AdTitle>Broken VAST Example</AdTitle>
+
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:99:99</Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4">
+                <![CDATA[https://example.com/nonexistent.mp4]]>
+              </MediaFile>
+          <!-- Missing closing tags below -->
