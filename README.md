@@ -44,12 +44,12 @@ You can use these VAST tags to verify:
    - Folder: `/ (root)`
 4. After the deployment completes, your files will be available at:
 
-```text
-https://<your-username>.github.io/vast-samples/vast-ok-30s.xml
-https://<your-username>.github.io/vast-samples/vast-ok-15s.xml
-https://<your-username>.github.io/vast-samples/vast-multi-mediafiles.xml
-https://<your-username>.github.io/vast-samples/vast-broken.xml
-https://<your-username>.github.io/vast-samples/vast-wrapper.xml
-https://<your-username>.github.io/vast-samples/vast-no-mediafiles.xml
-https://<your-username>.github.io/vast-samples/vast-no-duration.xml
-https://<your-username>.github.io/vast-samples/vast-http-mediafile.xml
+## Links
+https://midddim.github.io/vast-test/vast-ok-30s.xml
+https://midddim.github.io/vast-test/vast-ok-15s.xml
+https://midddim.github.io/vast-test/vast-multi-mediafiles.xml
+https://midddim.github.io/vast-test/vast-broken.xml
+https://midddim.github.io/vast-test/vast-wrapper.xml
+https://midddim.github.io/vast-test/vast-no-mediafiles.xml
+https://midddim.github.io/vast-test/vast-no-duration.xml
+https://midddim.github.io/vast-test/vast-http-mediafile.xml
